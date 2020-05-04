@@ -3,6 +3,21 @@ Exploring movies rating, genre and so many more based on MovieLeans dataset.
 
 **This is for educational purpose only.**
 
+## Technology
+- Python
+
+## Libs
+- matplotlib
+- seaborn
+- pandas
+- numpy
+
+## Requirements
+Python 3
+
+## Get started
+If you will run it locally, run `pip install` and the libs listed in the **Libs** section.
+
 ## Top 15 highest average movies
 The image below show us the **top 15 highest average movies**. All its average is 5.0. :O
 
