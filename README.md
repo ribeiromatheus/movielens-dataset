@@ -13,7 +13,7 @@ Exploring movies rating, genre and so many more based on MovieLeans dataset.
 - numpy
 
 ## Requirements
-Python 3
+- Python 3
 
 ## Get started
 If you will run it locally, run `pip install` and the libs listed in the **Libs** section.
