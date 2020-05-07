@@ -1,4 +1,4 @@
-# Movie Lens dataset
+# MovieLens dataset
 Exploring movies rating, genre and so many more based on MovieLeans dataset.
 
 **This is for educational purpose only.**
