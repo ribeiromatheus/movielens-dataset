@@ -10,7 +10,7 @@ Exploring movies rating, genre and so many more based on MovieLeans dataset.
 - [Matplotlib](https://matplotlib.org/)
 - [seaborn](https://seaborn.pydata.org/)
 - [pandas](https://pandas.pydata.org/)
-- [numpy](https://numpy.org/)
+- [NumPy](https://numpy.org/)
 
 ## Requirements
 - Python 3
